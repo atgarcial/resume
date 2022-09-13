@@ -13,3 +13,9 @@
     
     _Master of Science in Astrophysics_
    
+## Research Interest
+
+* Climate forecasting and verification
+* Seasonal and sub-seasonal forecasts
+* Climate services
+* 
