@@ -1,6 +1,7 @@
 # Alan Garcia Lopez
 
-![Photo](photo.png)
+![Photo](photo-desert.jpg)
+Tucson from Tumamoc Hill. 
 
 ## Education
 
