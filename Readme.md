@@ -1,7 +1,7 @@
 # Alan Garcia Lopez
 
 ![Photo](photo-desert.jpg)
-Tucson from Tumamoc Hill. 
+Tucson, Arizona from Tumamoc Hill and some rainy clouds.
 
 ## Education
 
