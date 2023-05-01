@@ -1,7 +1,8 @@
 # Alan Garcia Lopez
 
-![Photo](photo-desert.jpg)
-Tucson, Arizona from Tumamoc Hill. Some rainy clouds in the back. 
+<!-- [Photo](photo-desert.jpg) -->
+<img src="photo-desert.jpg" alt="Tucson, Arizona from Tumamoc Hill. Some rainy clouds in the back. 
+n" width="200"/>
 
 ## Education
 
