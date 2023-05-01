@@ -2,7 +2,10 @@
 
 <!-- [Photo](photo-desert.jpg) -->
 <img src="photo-desert.jpg" alt="Tucson, Arizona from Tumamoc Hill. Some rainy clouds in the back. 
-n" width="300"/> 
+n" width="400"/> 
+After 4 years working in Guatemala's National Weather Service (INSIVUMEH), I developed skills and earned experience in climate services and production of operational climate forecasts. From that I reconsidered going back to academia, in order to have a deeper understanding of the physics of tropical climate and also have a formal training as climate scientist in general. Now, I am doing a PhD at Columbia University (New York) in the Department of Earth and Environmental Sciences (DEES). In my research my main goal is to develop climate forecasts for tropical countries that could be useful in agriculture and other relevant sectors.
+
+I have a bachelor degree in Physics and a masters degree in Astrophysics. Afterwards, I have decided to focus my career in an area where I could orient my skills for the benefit of human activities. Then I choose climate science because climate information and services are becoming more relevant in a world with increasing variability and risk due to climate change. 
 _Tucson, Arizona from Tumamoc Hill. Some rainy clouds in the back._
 
 ## Education
