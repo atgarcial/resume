@@ -3,27 +3,26 @@
 <!-- [Photo](photo-desert.jpg) -->
 <img src="photo-desert.jpg" alt="Tucson, Arizona from Tumamoc Hill. Some rainy clouds in the back. 
 n" width="300"/> 
-_Tucson, Arizona from Tumamoc Hill. 
-Some rainy clouds in the back.__
+_Tucson, Arizona from Tumamoc Hill. <br>
+Some rainy clouds in the back, <br>
+giving water to the desert plants._
 
 After 4 years working in Guatemala's National Weather Service (INSIVUMEH) I developed skills and earned experience in climate services and production of operational climate forecasts. From that I reconsidered going to graduate school to get a PhD, in order to have a deeper understanding of the physics of tropical climate and also to have a formal training as climate scientist in general. Now, I am doing a PhD at Columbia University (New York) in the Department of Earth and Environmental Sciences (DEES). One of the main goals of my research is to develop climate forecasts for tropical countries that could be useful in agriculture and other relevant sectors.
 
-<
-
 ## Education
 
- __2022-__ _PhD in Earth and Enviromental Sciences_
+ __2022-Pres.__  _PhD in Earth and Enviromental Sciences_
  
 [Department of Earth and Enviromental Science (DEES), Columbia University (New York)](https://eesc.columbia.edu/)   
 [Personal Website @ DEES](https://eesc.columbia.edu/content/alan-andres-garcia-lopez)
 
 Advisor: _Ángel G. Muñoz, PhD._ Barcelona Supercomputing Center (BSC) and previouly at International Research Institute of Climate and Society (IRI), Columbia University.
 
- __2015-2017__ _Master of Science in Astrophysics_
+ __2015-2017__  _Master of Science in Astrophysics_
  
 [University of Innsbruck (Austria)](https://www.uibk.ac.at/en/) & [University of Padua (Italy)](https://www.unipd.it/en/)
     
- __2010-2015__ _Bachelor in Applied Physics_    
+ __2010-2015__  _Bachelor in Applied Physics_    
  
  [Universidad de San Carlos de Guatemala](https://www.usac.edu.gt)
 
@@ -39,9 +38,9 @@ Advisor: _Ángel G. Muñoz, PhD._ Barcelona Supercomputing Center (BSC) and prev
 
 ## Social media
 
-Github: [https://github.com/atgarcial](https://github.com/atgarcial)
-Linkedin: [https://www.linkedin.com/in/aagarcial/](https://www.linkedin.com/in/aagarcial/)
-Twitter: [https://twitter.com/trixgarcial](https://twitter.com/trixgarcial)
+Github: [https://github.com/atgarcial](https://github.com/atgarcial) <br>
+Linkedin: [https://www.linkedin.com/in/aagarcial/](https://www.linkedin.com/in/aagarcial/) <br>
+Twitter: [https://twitter.com/trixgarcial](https://twitter.com/trixgarcial) <br>
 
 
 ## Publications
