@@ -2,23 +2,25 @@
 
 <!-- [Photo](photo-desert.jpg) -->
 <img src="photo-desert.jpg" alt="Tucson, Arizona from Tumamoc Hill. Some rainy clouds in the back. 
-n" width="250"/> 
-Photo: _Tucson, Arizona from Tumamoc Hill. Some rainy clouds in the back._
+n" width="300"/> 
+__Tucson, Arizona from Tumamoc Hill. Some rainy clouds in the back.__
 
-After 4 years working in Guatemala's National Weather Service (INSIVUMEH), I developed skills and earned experience in climate services and production of operational climate forecasts. From that I reconsidered going to graduate school, in order to have a deeper understanding of the physics of tropical climate and also have a formal training as climate scientist in general. Now, I am doing a PhD at Columbia University (New York) in the Department of Earth and Environmental Sciences (DEES). In my research my main goal is to develop climate forecasts for tropical countries that could be useful in agriculture and other relevant sectors.
+After 4 years working in Guatemala's National Weather Service (INSIVUMEH) I developed skills and earned experience in climate services and production of operational climate forecasts. From that I reconsidered going to graduate school to get a PhD, in order to have a deeper understanding of the physics of tropical climate and also to have a formal training as climate scientist in general. Now, I am doing a PhD at Columbia University (New York) in the Department of Earth and Environmental Sciences (DEES). One of the main goals of my research is to develop climate forecasts for tropical countries that could be useful in agriculture and other relevant sectors.
 
 ## Education
 
- _PhD in Earth and Enviromental Sciences_
+ __2022-__ _PhD in Earth and Enviromental Sciences_
  
 [Department of Earth and Enviromental Science (DEES), Columbia University (New York)](https://eesc.columbia.edu/)   
 [Personal Website @ DEES](https://eesc.columbia.edu/content/alan-andres-garcia-lopez)
 
- _Master of Science in Astrophysics_
+Advisor: Ángel G. Muñoz. International Rese
+
+ __2015-2017__ _Master of Science in Astrophysics_
  
 [University of Innsbruck (Austria)](https://www.uibk.ac.at/en/) & [University of Padua (Italy)](https://www.unipd.it/en/)
     
- _Bachelor in Applied Physics_    
+ __2010-2015__ _Bachelor in Applied Physics_    
  
  [Universidad de San Carlos de Guatemala](https://www.usac.edu.gt)
 
@@ -32,6 +34,13 @@ After 4 years working in Guatemala's National Weather Service (INSIVUMEH), I dev
 * Regional climate: Central America and the Caribbean, tropical regions.
 * Climate forecasts for agriculture
 
+## Social media
+
+Github: [https://github.com/atgarcial](https://github.com/atgarcial)
+Linkedin: [https://www.linkedin.com/in/aagarcial/](https://www.linkedin.com/in/aagarcial/)
+Twitter: [https://twitter.com/trixgarcial](https://twitter.com/trixgarcial)
+
+
 ## Publications
 
 1. Kowal, K. Slater, Louise J. __García-López, Alan.__ Van Loon, Anne F.  _A comparison of seasonal rainfall forecasts over Central America using dynamic and hybrid approaches from Copernicus Climate Change Service seasonal forecasting system and the North American Multimodel Ensemble._ International Journal of Climatology, Volume 43, Issue 5, 2022. ΅[https://doi.org/10.1002/joc.7969](https://doi.org/10.1002/joc.7969)
@@ -42,7 +51,7 @@ After 4 years working in Guatemala's National Weather Service (INSIVUMEH), I dev
 
 _In preparation_
 
-A. Jupin, JLJ. __García-López, Alan.__ Briceño-Zuluaga, F. Sifeddine, A. Ruiz-Fernandez, A.C. _Spatiotemporal precipitation variability and trends in the Usumacinta basin (Mexico-Guatemala)._ International Journal of Climatology.   
+* Jupin, JLJ. __García-López, Alan.__ Briceño-Zuluaga, F. Sifeddine, A. Ruiz-Fernandez, A.C. _Spatiotemporal precipitation variability and trends in the Usumacinta basin (Mexico-Guatemala)._ International Journal of Climatology.   
 
 
 ###
