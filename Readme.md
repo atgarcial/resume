@@ -3,9 +3,12 @@
 <!-- [Photo](photo-desert.jpg) -->
 <img src="photo-desert.jpg" alt="Tucson, Arizona from Tumamoc Hill. Some rainy clouds in the back. 
 n" width="300"/> 
-__Tucson, Arizona from Tumamoc Hill. Some rainy clouds in the back.__
+_Tucson, Arizona from Tumamoc Hill. 
+Some rainy clouds in the back.__
 
 After 4 years working in Guatemala's National Weather Service (INSIVUMEH) I developed skills and earned experience in climate services and production of operational climate forecasts. From that I reconsidered going to graduate school to get a PhD, in order to have a deeper understanding of the physics of tropical climate and also to have a formal training as climate scientist in general. Now, I am doing a PhD at Columbia University (New York) in the Department of Earth and Environmental Sciences (DEES). One of the main goals of my research is to develop climate forecasts for tropical countries that could be useful in agriculture and other relevant sectors.
+
+<
 
 ## Education
 
@@ -14,7 +17,7 @@ After 4 years working in Guatemala's National Weather Service (INSIVUMEH) I deve
 [Department of Earth and Enviromental Science (DEES), Columbia University (New York)](https://eesc.columbia.edu/)   
 [Personal Website @ DEES](https://eesc.columbia.edu/content/alan-andres-garcia-lopez)
 
-Advisor: Ángel G. Muñoz. International Rese
+Advisor: _Ángel G. Muñoz, PhD._ Barcelona Supercomputing Center (BSC) and previouly at International Research Institute of Climate and Society (IRI), Columbia University.
 
  __2015-2017__ _Master of Science in Astrophysics_
  
