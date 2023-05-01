@@ -1,25 +1,31 @@
 # Alan Garcia Lopez
 
 ![Photo](photo-desert.jpg)
-Tucson, Arizona from Tumamoc Hill and some rainy clouds.
+Tucson, Arizona from Tumamoc Hill. Some rainy clouds in the back. 
 
 ## Education
 
+
+3. [Department of Earth and Enviromental Science, Columbia University (New York)][https://eesc.columbia.edu/]
+   
+   _PhD in Earth and Enviromental Sciences_
+   
+2. [University of Innsbruck (Austria)](https://www.uibk.ac.at/en/) & [University of Padua (Italy)](https://www.unipd.it/en/)
+    
+    _Master of Science in Astrophysics_
+    
 1. [Universidad de San Carlos de Guatemala](https://www.usac.edu.gt)
 
     _Bachelor in Applied Physics_
     
    
-2. [University of Innsbruck (Austria)](https://www.uibk.ac.at/en/) & [University of Padua (Italy)](https://www.unipd.it/en/)
-    
-    _Master of Science in Astrophysics_
-   
 ## Research Interests
 
-* Climate forecasting and verification
-* Seasonal and sub-seasonal forecasts
-* Climate services
+* Climate forecast and verification
+* Seasonal and sub-seasonal (s2s) forecasts
+* Climate services 
 * Regional climate: **Central America** and the Caribbean
+* Climate forecasts for tropical countries and agriculture
 
 ###
 ### *Nubes* 
