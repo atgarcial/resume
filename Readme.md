@@ -5,24 +5,23 @@
 n" width="250"/> 
 Photo: _Tucson, Arizona from Tumamoc Hill. Some rainy clouds in the back._
 
-After 4 years working in Guatemala's National Weather Service (INSIVUMEH), I developed skills and earned experience in climate services and production of operational climate forecasts. From that I reconsidered going back to academia, in order to have a deeper understanding of the physics of tropical climate and also have a formal training as climate scientist in general. Now, I am doing a PhD at Columbia University (New York) in the Department of Earth and Environmental Sciences (DEES). In my research my main goal is to develop climate forecasts for tropical countries that could be useful in agriculture and other relevant sectors.
-
-I have a bachelor degree in Physics and a masters degree in Astrophysics. Afterwards, I have decided to focus my career in an area where I could orient my skills for the benefit of human activities. Then I choose climate science because climate information and services are becoming more relevant in a world with increasing variability and risk due to climate change. 
-
+After 4 years working in Guatemala's National Weather Service (INSIVUMEH), I developed skills and earned experience in climate services and production of operational climate forecasts. From that I reconsidered going to graduate school, in order to have a deeper understanding of the physics of tropical climate and also have a formal training as climate scientist in general. Now, I am doing a PhD at Columbia University (New York) in the Department of Earth and Environmental Sciences (DEES). In my research my main goal is to develop climate forecasts for tropical countries that could be useful in agriculture and other relevant sectors.
 
 ## Education
 
  _PhD in Earth and Enviromental Sciences_
+ 
 [Department of Earth and Enviromental Science (DEES), Columbia University (New York)](https://eesc.columbia.edu/)   
 [Personal Website @ DEES](https://eesc.columbia.edu/content/alan-andres-garcia-lopez)
 
  _Master of Science in Astrophysics_
+ 
 [University of Innsbruck (Austria)](https://www.uibk.ac.at/en/) & [University of Padua (Italy)](https://www.unipd.it/en/)
     
  _Bachelor in Applied Physics_    
-[Universidad de San Carlos de Guatemala](https://www.usac.edu.gt)
+ 
+ [Universidad de San Carlos de Guatemala](https://www.usac.edu.gt)
 
-   
 
 ## Research Interests
 
