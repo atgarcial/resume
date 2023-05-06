@@ -4,8 +4,7 @@
 <img src="photo-desert.jpg" alt="Tucson, Arizona from Tumamoc Hill. Some rainy clouds in the back. 
 n" width="300"/> 
 
-<br/>
-_Tucson, Arizona from Tumamoc Hill._
+_<br/>Tucson, Arizona from Tumamoc Hill._
 
 _Some rainy clouds in the back,_
  
