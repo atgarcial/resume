@@ -5,9 +5,9 @@
 n" width="300"/> 
 
 <br>
-_Tucson, Arizona from Tumamoc Hill. <br>
-Some rainy clouds in the back, <br>
-giving water to the desert plants._
+>*Tucson, Arizona from Tumamoc Hill. <br>
+>Some rainy clouds in the back, <br>
+>giving water to the desert plants.*_
 
 <br><br>
 Hola, my name is Alan Andrés García López but you can call me Alan. I am Guatemalan and I grew up in Guatemala City. This a website to describe my academic career and interests. After 4 years working in Guatemala's National Weather Service (INSIVUMEH) I developed skills and earned experience in climate services and production of operational climate forecasts. From that I reconsidered going to graduate school to get a PhD, in order to have a deeper understanding of the physics of tropical climate and also to have a formal training as climate scientist in general. Now, I am doing a PhD at Columbia University (New York) in the Department of Earth and Environmental Sciences (DEES). One of the main goals of my research is to develop climate forecasts for tropical countries that could be useful in agriculture and other relevant sectors.
